@@ -36,3 +36,8 @@ you can add the option
 
 `some_identifier` can be any of the identifiers used in the certificate
 (e.g. submitter name or submission ID for submissions).
+
+## Caveats
+
+Use of the Society of Research Software Engineering logo is subject to
+the constraints documented [on the Society's website](https://society-rse.org/trademark-and-logo-policy/).
