@@ -4,7 +4,7 @@ To generate certificates based on SVG templates.
 
 ## Requirements
 
-Pure Python 3.5+,
+Pure Python 3.6+,
 no library dependencies.
 
 [Inkscape](https://inkscape.org) is required for converting SVG to PDF.
