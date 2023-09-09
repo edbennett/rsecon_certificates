@@ -98,7 +98,7 @@ def main():
     if args.inkscape is not None:
         SETTINGS["inkscape"] = args.inkscape
 
-    if not (args.talks_template or args.attendees_template):
+    if not (args.talks_template or args.attendees_template or args.committee_template):
         print("Nothing to do.")
 
     if args.attendees_template:
